@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Archana Wimalaratne</h1>
+<h3 align="center">Hey there, I'm <a href="https://freshidea.com/jonah/">I'm Archana Wimalaratne<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=archanawimalaratne&label=Profile%20views&color=008000&style=flat" alt="archanawimalaratne" /> </p>
