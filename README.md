@@ -9,6 +9,8 @@
 - 👨‍💻 Studying [Computer Science] at **Sri Lanka Institute of Information Technology (SLIIT)**
 - 📫 How to reach me **archanasamadari@gmail.com**
 
+![Archanas's GitHub stats](https://github-readme-stats.vercel.app/api?username=archanawimalaratne&show_icons=true&theme=radical)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/archanawimalaratne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archanawimalaratne" height="30" width="40" /></a>
