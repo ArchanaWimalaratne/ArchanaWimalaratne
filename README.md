@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **JAVA**
 - 👨‍💻 Studying [Computer Science] at **Sri Lanka Institute of Information Technology (SLIIT)**
 - 📫 How to reach me **archanasamadari@gmail.com**
-
+---
 ![Archanas's GitHub stats](https://github-readme-stats.vercel.app/api?username=archanawimalaratne&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
