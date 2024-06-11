@@ -64,6 +64,12 @@
 <br>
 <br>      
 <br>
+ <br>      
+<br>
+<br>
+ <br>      
+<br>
+<br>
 <br>
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me</h2><br>
 <a href="mailto:archanasamadari@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
