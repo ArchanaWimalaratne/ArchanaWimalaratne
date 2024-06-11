@@ -6,8 +6,10 @@
 - 🌱 I’m currently learning **JAVA**
 - 👨‍💻 Studying [Computer Science] at **Sri Lanka Institute of Information Technology (SLIIT)**
 - 📫 How to reach me **archanasamadari@gmail.com**
+<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -57,7 +59,8 @@
 
 <a href="https://github.com/ArchanaAimalaratne/"> 
   
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArchanaWimalaratne&bg_color=0,000000,130F40&theme=gotham&hide_border=true&show_icons=true" alt="ArchanaWimalaratne" />
+ <img src="https://github-readme-stats.vercel.app/api?username=ArchanaWimalaratne&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Sahil's github stats" width=450px/>
+</a><br><br>
 <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ArchanaWimalaratne&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ArchanaWimalaratne" />
 <br>
 <br>
@@ -78,7 +81,11 @@
 <a href="https://www.linkedin.com/in/archana-wimalaratne-9182a62b5/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+<br>
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
