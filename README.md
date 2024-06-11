@@ -1,9 +1,9 @@
-<h3 align="center">Hey there, I'm <a href="https://freshidea.com/jonah/">I'm Archana Wimalaratne<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hey there, I'm <a href="https://freshidea.com/jonah/">Archana  Wimalaratne </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=archanawimalaratne&label=Profile%20views&color=008000&style=flat" alt="archanawimalaratne" /> </p>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
----
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 🌱 I’m currently learning **JAVA**
 - 👨‍💻 Studying [Computer Science] at **Sri Lanka Institute of Information Technology (SLIIT)**
