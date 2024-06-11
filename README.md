@@ -21,7 +21,6 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,java" />
   </a>
 </p>
-<br> 
 <br>
 
 - **Front-End Development**
@@ -83,8 +82,10 @@
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
-  <p align="center"><b>Profile Visitor Count</b><img src="Hi.gif" width="30px"></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Blia0wang%7D/count.svg" alt="visitor badge" width="30%"></p>
+  <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ArchanaWimalaratne/count.svg" />
+</p>
     </div>
 <br>
 <br>
