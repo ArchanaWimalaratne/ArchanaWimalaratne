@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Archana Wimalaratne</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=archanawimalaratne&label=Profile%20views&color=0e75b6&style=flat" alt="archanawimalaratne" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=archanawimalaratne&label=Profile%20views&color=008000&style=flat" alt="archanawimalaratne" /> </p>
+
+---
 
 - 🌱 I’m currently learning **JAVA**
 
