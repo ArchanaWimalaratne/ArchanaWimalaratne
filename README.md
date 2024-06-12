@@ -50,10 +50,10 @@
 
 
 <details>
-  <summary><b>contact me</b></summary>
+  <summary><p align="center"=><i>In case you wanna reach out to me</i></p></summary>
 <div>
   <samp>
-    <h2 align="center">you can reach me by:</h2>
+    <h3 align="center">reach me by:</h3>
     <p align="center">
       <br/>
     <a href="https://www.linkedin.com/in/archana-wimalaratne-9182a62b5/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -70,7 +70,9 @@
 
 <br>
 <div align=center>
-   <a href="https://github.com/ArchanaWimalaratne"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>     
+   
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/ArchanaWimalaratne/count.svg" alt="visitor badge"/></p>
 </div>
 <br>
 <br>
