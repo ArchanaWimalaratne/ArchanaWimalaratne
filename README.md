@@ -47,15 +47,22 @@
 <br>
 <br>      
 <br>
-<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me</h2><br>
- 
-<a href = "mailto:archanasamadari@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
-<br>
-<br>
-<a href = 'https://www.github.com/ArchanaWimalaratne'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<br>
-<br>
-<a href = 'https://www.linkedin.com/in/archana-wimalaratne-9182a62b5'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+
+
+<details>
+  <summary><b>contact me</b></summary>
+<div>
+  <samp>
+    <h2 align="center">you can reach me by:</h2>
+    <p align="center">
+      <br/>
+    <a href="https://www.linkedin.com/in/archana-wimalaratne-9182a62b5/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://github.com/ArchanaWimalaratne"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="mailto:archanasamadari@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    </p>
+  </samp>
+</div>
+</details>
 
 </div>
 
@@ -63,13 +70,8 @@
 
 <br>
 <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Loading</p>
-  <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ArchanaWimalaratne/count.svg" />
-</p>
-    </div>
+   <a href="https://github.com/ArchanaWimalaratne"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>     
+</div>
 <br>
 <br>
 <br>
