@@ -1,4 +1,4 @@
-<h3 align="center">Hey there, I'm <a href="https://freshidea.com/jonah/">Archana Wimalaratne </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hey there, I'm <a href="https://freshidea.com/jonah/">Archana Wimalaratne </a><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;</h3>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
