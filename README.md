@@ -56,9 +56,9 @@
 
 <a href="https://github.com/ArchanaAimalaratne/"> 
   
- <img src="https://github-readme-stats.vercel.app/api?username=ArchanaWimalaratne&hide=issues&show_icons=true&theme=gotham&locale=en&hide_border=true&layout=compact" alt="ArchanaWimalaratne's github stats" width=450px/>
-</a><br><br>
-<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ArchanaWimalaratne&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ArchanaWimalaratne" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=IT22106292&theme=midnight-purple&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IT22106292&theme=midnight-purple&hide_border=false" /> 
 <br>
 <br>
 <br>      
