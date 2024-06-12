@@ -50,10 +50,9 @@
 
 
 <details>
-  <summary><p align="center"=><i>In case you wanna reach out to me</i></p></summary>
+  <summary><p align="center"=><i>Reach me by : </i></p></summary>
 <div>
   <samp>
-    <h3 align="center">reach me by:</h3>
     <p align="center">
       <br/>
     <a href="https://www.linkedin.com/in/archana-wimalaratne-9182a62b5/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
