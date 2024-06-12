@@ -59,7 +59,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <a href="https://github.com/ArchanaAimalaratne/"> 
   
- <img src="https://github-readme-stats.vercel.app/api?username=ArchanaWimalaratne&hide=issues&show_icons=true&theme=gotham&locale=en&hide_border=true&layout=compact" alt="Sahil's github stats" width=450px/>
+ <img src="https://github-readme-stats.vercel.app/api?username=ArchanaWimalaratne&hide=issues&show_icons=true&theme=gotham&locale=en&hide_border=true&layout=compact" alt="ArchanaWimalaratne's github stats" width=450px/>
 </a><br><br>
 <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ArchanaWimalaratne&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ArchanaWimalaratne" />
 <br>
