@@ -70,9 +70,9 @@
 
 <br>
 <div align=center>
-   
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/ArchanaWimalaratne/count.svg" alt="visitor badge"/></p>
+
+[![](https://visitcount.itsvg.in/api?id=ArchanaWimalaratne&icon=3&color=6)](https://visitcount.itsvg.in)
+
 </div>
 <br>
 <br>
